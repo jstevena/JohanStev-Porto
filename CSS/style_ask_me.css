@@ -1,0 +1,23 @@
+body {
+    background-color: black; /* Set background to black */
+    color: white; /* Set text color to white for better contrast */
+    font-family: Arial, sans-serif; /* Optional: set a font family */
+}
+
+h1, h3, p {
+    margin: 0; /* hapus margin bawaan */
+    padding: 0; /* hapus padding bawaan */
+}
+
+h1 {
+    margin-bottom: 10px; /* jarak h1 */
+}
+
+h3 {
+    margin-bottom: 10px; /* jarak h3 */
+}
+
+p {
+    font-size: 18px; /* font 12 paragraf */
+    margin-bottom: 10px; /* Optional: space below p */
+}

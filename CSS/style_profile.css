@@ -1,0 +1,15 @@
+body {
+    background-color: #697565; /* ganti background */
+    color: white; /* ganti text ke putih */
+    font-family: Arial, sans-serif; /* Optional: set a font family */
+}
+
+p {
+    margin: 0; /* hapus margin bawaan */
+    padding: 0; /* hapus padding bawaan */
+}
+
+p {
+    margin-bottom: 5px; /* ganti spacing */
+	
+}
